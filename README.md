@@ -1,4 +1,4 @@
-![cover](./docs/images/cover.jpg)
+![cover](https://raw.githubusercontent.com/KennethanCeyer/KennethanCeyer/master/docs/images/cover.jpg)
 
 ### Hi there 👋
 
