@@ -5,7 +5,7 @@
 
 First time here? I will be a tour guide for you :balloon:
 
-## Are you here to learn more about me? I'll give you some information below!
+## Are you here for looking something about me? I'll give you some information below!
 
 - :globe_with_meridians: [Facebook](https://www.facebook.com/han.sungmin/)
 - :globe_with_meridians: [Twitter](https://twitter.com/smilehsm)
