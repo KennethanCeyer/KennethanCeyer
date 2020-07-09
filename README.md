@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KennethanCeyer/KennethanCeyer/master/docs/images/cover.jpg" alt="cover" /></p>
 <p align="center">SungMin Han - @KennethanCeyer</p>
 
-## Hi there here from South Korea👋
+## Hi there 👋
 
 First time here? I will be a tour guide for you :balloon:
 
