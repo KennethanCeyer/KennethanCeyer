@@ -1,12 +1,11 @@
-![cover](https://raw.githubusercontent.com/KennethanCeyer/KennethanCeyer/master/docs/images/cover.jpg)
+<p align="center"><img src="https://raw.githubusercontent.com/KennethanCeyer/KennethanCeyer/master/docs/images/cover.jpg" alt="cover" /></p>
+<p align="center">SungMin Han - @KennethanCeyer</p>
 
-SungMin Han - @KennethanCeyer
-
-### Hi there here from South Korea👋
+## Hi there here from South Korea👋
 
 First time here? I will be a tour guide for you :balloon:
 
-### Great attractions for you to explore :golf:
+## Great attractions for you to explore :golf:
 
 There are several repositories I would recommend to you! 
 
@@ -26,7 +25,7 @@ There are several repositories I would recommend to you!
 
 #### Image processing
 
-- [vanta]()
+- [vanta](https://github.com/KennethanCeyer/vanta)
 - [vanta-font](https://github.com/KennethanCeyer/vanta-font)
 
 #### Productivities
