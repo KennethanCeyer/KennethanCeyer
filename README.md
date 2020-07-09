@@ -5,6 +5,13 @@
 
 First time here? I will be a tour guide for you :balloon:
 
+## Are you here to learn more about me? I'll give you some information below!
+
+- :globe_with_meridians: [Facebook](https://www.facebook.com/han.sungmin/)
+- :globe_with_meridians: [Twitter](https://twitter.com/smilehsm)
+- :globe_with_meridians: [Linkedin](https://www.linkedin.com/in/sungmin-han-768419133/)
+- :globe_with_meridians: [Blog](https://blog.pigno.se/)
+
 ## Great attractions for you to explore :golf:
 
 There are several repositories I would recommend to you! 
@@ -17,7 +24,7 @@ There are several repositories I would recommend to you!
 - [formulize](https://github.com/KennethanCeyer/formulize)
 - [hypermodel](https://github.com/KennethanCeyer/hypermodel)
 
-#### Go :runner:
+#### Go
 
 - [sparrow](https://github.com/KennethanCeyer/sparrow)
 - [gowap](https://github.com/KennethanCeyer/gowap)
