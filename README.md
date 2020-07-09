@@ -1,3 +1,5 @@
+![cover](./docs/images/cover.jpg)
+
 ### Hi there 👋
 
 <!--
