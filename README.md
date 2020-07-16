@@ -38,7 +38,6 @@ There are several repositories I would recommend to you!
 #### Productivities
 
 - [danger-go](https://github.com/KennethanCeyer/danger-go)
-- [git-peg](https://github.com/KennethanCeyer/git-peg)
 - [items](https://github.com/KennethanCeyer/items)
 - [vscode-io-extension](https://github.com/KennethanCeyer/vscode-io-extension)
 
