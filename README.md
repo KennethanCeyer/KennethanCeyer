@@ -1,5 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KennethanCeyer/KennethanCeyer/master/docs/images/cover.jpg" alt="cover" /></p>
-<p align="center">SungMin Han - @KennethanCeyer</p>
+<p align="center">Sungmin Han - @KennethanCeyer</p>
 
 ## Hi there 👋
 
@@ -45,6 +45,14 @@ There are several repositories I would recommend to you!
 
 - [tutorial-git](https://github.com/KennethanCeyer/tutorial-git)
 - [learning-golang-kr](https://github.com/KennethanCeyer/learn-golang-kr)
+
+#### Awesome Series [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+- [awesome-numpy](https://github.com/KennethanCeyer/awesome-numpy)
+- [awesome-data-pipeline](https://github.com/KennethanCeyer/awesome-data-pipeline)
+- [awesome-msa](https://github.com/KennethanCeyer/awesome-msa)
+- [awesome-llm](https://github.com/KennethanCeyer/awesome-llm)
+- [awesome-cafe](https://github.com/kennethanceyer/awesome-cafe)
 
 #### Funs
 
