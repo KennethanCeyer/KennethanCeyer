@@ -48,10 +48,11 @@ There are several repositories I would recommend to you!
 
 #### Awesome Series [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+- [awesome-llm](https://github.com/KennethanCeyer/awesome-llm)
+- [awesome-llmops](https://github.com/KennethanCeyer/awesome-llmops)
 - [awesome-numpy](https://github.com/KennethanCeyer/awesome-numpy)
 - [awesome-data-pipeline](https://github.com/KennethanCeyer/awesome-data-pipeline)
 - [awesome-msa](https://github.com/KennethanCeyer/awesome-msa)
-- [awesome-llm](https://github.com/KennethanCeyer/awesome-llm)
 - [awesome-cafe](https://github.com/kennethanceyer/awesome-cafe)
 
 #### Funs
