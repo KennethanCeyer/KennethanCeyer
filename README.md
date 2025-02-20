@@ -3,16 +3,16 @@
 ## I am
 
 <p align="center">
-    <img height="28" src="./assets/AI GDE.svg" alt="AI GDE">
+    <a href="https://developers.google.com/community/experts" target="_blank"><img height="28" src="./assets/AI GDE.svg" alt="AI GDE"></a>
     &nbsp;
     &nbsp;
-    <img height="28" src="./assets/Cloud GDE.svg" alt="Cloud GDE">
+    <a href="https://developers.google.com/community/experts" target="_blank"><img height="28" src="./assets/Cloud GDE.svg" alt="Cloud GDE"></a>
     &nbsp;
     &nbsp;
-    <img height="28" src="./assets/Go GDE.svg" alt="Go GDE">
+    <a href="https://developers.google.com/community/experts" target="_blank"><img height="28" src="./assets/Go GDE.svg" alt="Go GDE"></a>
     &nbsp;
     &nbsp;
-    <img height="28" src="./assets/GDG Golang Korea.svg" alt="GDG Golang Korea">
+    <a href="https://gdg.community.dev/gdg-golang-korea" target="_blank"><img height="28" src="./assets/GDG Golang Korea.svg" alt="GDG Golang Korea"></a>
 </p>
 
 ## Social media
